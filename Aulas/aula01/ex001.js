@@ -4,3 +4,6 @@ window.prompt('Qual seu nome?') //exibe uma janela que o usuario pode entrar com
 
 // ou então posso omitir o window e deixar apenas alert
 // JS não precisa colocar ;
+
+
+nome = "guilherme"
